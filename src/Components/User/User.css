@@ -1,0 +1,22 @@
+.btn-details {
+  background-color: #4caf50;
+  /* Green color */
+  color: rgb(221, 155, 155);
+  /* White text */
+  padding: 12px 20px;
+  /* Padding */
+  border: none;
+  /* No border */
+  border-radius: 5px;
+  /* Rounded corners */
+  cursor: pointer;
+  /* Cursor style on hover */
+  font-size: 16px;
+  /* Font size */
+  transition: background-color 0.3s;
+  color: white;
+}
+
+.btn-details:hover {
+  background-color: #45a049;
+}
